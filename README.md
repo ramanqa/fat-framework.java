@@ -18,11 +18,6 @@
       <systemPath>${project.basedir}/vendor/fat-framework-1.0.0-SNAPSHOT.jar</systemPath>
     </dependency>
     <dependency>
-        <groupId>com.qainfotech.tap</groupId>
-        <artifactId>jira-zephyr-executor</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
         <groupId>com.thed.zhephy.cloud.rest</groupId>
         <artifactId>zfj-cloud-rest-client</artifactId>
         <version>1.0</version>
